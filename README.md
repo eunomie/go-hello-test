@@ -1,6 +1,6 @@
 # App
 
-## Build
+## Build the app
 
 ```
 $ GOOS=linux go build -o app .
