@@ -1,4 +1,4 @@
-# App
+# Go App
 
 ## Build
 
